@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dannahernandezp
-- 👀 I’m a Junior Frontend Developer
-- 🌱 I’m currently learning Backend Development
+- 👀 I’m a Junior Developer
+- 🌱 I’m currently learning about Data
 - 💞️ I’m looking to collaborate on any type of project related with Web Development 
 - 📫 You can reach me on [Twitter](https://twitter.com/DannaHernandezP)
 
